@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishk-mky&label=Profile%20views&color=0e75b6&style=flat" alt="manishk-mky" /> </p>
 
-- 🔭 I’m currently working on **Metaverse Mall**
+- 🔭 I’m currently working on my **Skills**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Phaser**
 
 - 💬 Ask me about **C++ , Projects , Designs**
 
